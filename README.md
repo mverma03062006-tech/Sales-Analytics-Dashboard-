@@ -2,7 +2,6 @@
 
 An interactive, data-driven Sales Analytics Dashboard built using **Python, Streamlit, Pandas, NumPy, and Plotly**. Upload sales datasets, perform data preprocessing, explore key business metrics, and generate meaningful insights through interactive visualizations.
 
-\<p align="center">   \<a href="[https://j3rryonvp7jrecqsctsnma.streamlit.app/](https://j3rryonvp7jrecqsctsnma.streamlit.app/)">     \<img src="[https://img.shields.io/badge/Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Live%20Demo-Streamlit-red?style=for-the-badge\&logo=streamlit\&logoColor=white)" />   \</a>   \<img src="[https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge](https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge)" /> \</p>
 
 ## 🚀 Live Demo
 
